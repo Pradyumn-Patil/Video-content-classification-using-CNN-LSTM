@@ -58,9 +58,7 @@ features_train, features_test, labels_train, labels_test = train_test_split(feat
 
 
 ## Step 4: Implement the ConvLSTM Approach
-.
-```sh
- ```
+
 
 ### Step 4.1: Construct the Model
 
