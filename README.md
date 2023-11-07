@@ -1,4 +1,4 @@
-# Video-content-classification-using-CNN-LSTM
+# Human Action recognition using ensemble nerural networks
 ### Classify input video with the according to its content type.
 
 [![N|Solid](https://www.gstatic.com/devrel-devsite/prod/v0009e14c1212eb34a833a614ba55cbefddb8efdabe01fcac037dbc181c8c3153/tensorflow/images/lockup.svg)](https://nodesource.com/products/nsolid)
